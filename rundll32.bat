@@ -54,4 +54,4 @@ if exist sys.exe (
 )
 
 :: End of the script
-pause
+exit
